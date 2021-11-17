@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav {
+    height: 80px;
+
+}
+
+.carousel-inner img {
+    height: 700px;
+}
+
+
+.about-content {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: #ececec;
+}
+
+.about-pendaftaran {
+    padding: 50px 50px;
+    background-color: #ececec;
+}
+
+
+form {
+    background-color: #415dfa;
+    padding: 10px 10px;
+}
+
+/* footer */
+
+footer .footer {
+    height: 100px;
+    color: white;
+}
+
+footer p {
+    padding-top: 40px;
+}
